@@ -1,0 +1,27 @@
+
+#contact{
+    border-radius:20px;
+    width: max-content;
+    color: white;
+    /* height: 45px; */
+    font-weight: bold;
+    text-align: center;
+    }
+    
+    #contact:hover{
+    /* border-radius:20px;
+    width: max-content;
+    height: 45px; */
+    
+    color: black;
+    font-weight: 400px;
+    width: 75px;
+    transition: 0.3s;
+    
+    /* font-weight: bold;
+    text-align: center; */
+    }
+
+    .title{
+        font.family:'Courier New', Courier, monospace;
+        }
