@@ -96,7 +96,7 @@ section{
 	min-height: 100vh;
 	height: 100%;
 	width: 100%;
-	background: url(../img/bg.jpg);
+	background: url(../img/background.jpg);
 	background-size: cover;
 	background-position: center;
 	position: relative;
@@ -212,7 +212,7 @@ header.sticky{
 .about{
 	display: grid;
 	grid-template-columns: repeat(2, 2fr);
-	background: url(../img/bg.jpg);
+	background: url(../img/background.jpg);
 	align-items: center;
 	grid-gap: 2rem;
 }
@@ -529,7 +529,7 @@ header.sticky{
 	}
 	.contact{
 		transition: .3s;
-		background: url(../img/bg.jpg);
+		background: url(../img/background.jpg);
 	}
 	:root{
 		--big-font: 4rem;
